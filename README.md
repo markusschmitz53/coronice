@@ -1,2 +1,2 @@
-# coronize
+# coronice
 corona generating sounds
