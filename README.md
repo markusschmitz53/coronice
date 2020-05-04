@@ -1,2 +1,2 @@
 # coronice
-corona generating sounds
+corona generating art
